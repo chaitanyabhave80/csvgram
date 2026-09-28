@@ -1,0 +1,10 @@
+push.sh
+.git_token
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.csv
+*.xlsx
+*.log
